@@ -26,7 +26,7 @@ Red line = fault limit. Blue line = actual sensor value.
 
 ## Python Output
 
-![Python Output](README_images/py.png)
+![Python Output](README_images/python_output.png)
 Total Records : 101
 Fault Records : 28
 Pass Records  : 73
