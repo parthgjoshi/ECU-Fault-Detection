@@ -22,11 +22,12 @@ If it does — it gives a fault code. If not — it shows PASS.
 Sensor signals are generated using MATLAB/Octave.  
 Red line = fault limit. Blue line = actual sensor value.
 
-![MATLAB Graphs](README_images/matlab_graphs.png)
+![MATLAB Graphs](Screenshot/matlab_graphs.png)
+
 
 ## Python Output
 
-![Python Output](README_images/python_output.png)
+![Python Output](Screenshot/Python_output.png)
 Total Records : 101
 Fault Records : 28
 Pass Records  : 73
